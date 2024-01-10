@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+*.pyc
+*.swp
+*.3660
+__pycache__/
